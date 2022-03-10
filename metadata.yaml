@@ -1,5 +1,8 @@
 _repo: Peaks-of-Shala_67568
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67568-h/images/cover.jpg
 creator:
   author:
     agent_name: Lane, Rose Wilder
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43619
     wikipedia: https://en.wikipedia.org/wiki/Rose_Wilder_Lane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67568#Peaks-of-Shala
 gutenberg_issued: '2022-03-05'
 identifiers:
   gutenberg: '67568'
